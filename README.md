@@ -2,6 +2,8 @@
 Console application using Spring core framework with hibernate
 
 
+The project is a simple Java application using the Spring Framework and Hibernate for data persistence. It focuses on basic CRUD (Create, Read, Update, Delete) operations on a Student entity. The application uses MySQL as the database.
+
 Steps to Create the Project:
 1. Project Setup:
 Create a Maven Project:
